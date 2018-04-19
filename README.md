@@ -44,6 +44,7 @@ Clone the package into your working catkin workspace, and then build using "catk
 ```
 cd <your_catkin_workspace>/src
 git clone https://github.com/SoulGateW/std_msgs_stamped.git
+cd ..
 catkin_make --pkg std_msgs_stamped
 catkin_make install
 ```
