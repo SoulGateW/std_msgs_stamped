@@ -39,7 +39,7 @@ Be careful with ROS design ideology when using these.
       UInt64Stamped.msg
 
 ## Installation:
-Clone the package into your working catkin workspace, and then build using "catkin_make".
+Clone the package into your catkin workspace folder, and then build using "catkin_make".
 
 ```
 cd <your_catkin_workspace>/src
